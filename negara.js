@@ -1,123 +1,123 @@
 let negara = [
   {
-    nama: 'bhutan',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'andorra',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'bahrain',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'brunei',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'estonia',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'honduras',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'hungaria',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
     nama: 'jepang',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'kamerun',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'kroasia',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'lebanon',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'moldova',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'myanmar',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'nepal',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'norwegia',
-    hint: 'Terletak di Asia Selatan'
-  },
-  {
-    nama: 'panama',
-    hint: 'Terletak di Asia Selatan'
+    hint: 'Negara di Asia yang terkenal dengan seni melipat kertas atau disebut “origami”?'
   },
   {
     nama: 'prancis',
-    hint: 'Terletak di Asia Selatan'
+    hint: 'Negara Eropa Barat yang terkenal dengan landmark Menara eiffel?'
   },
   {
-    nama: 'rwanda',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'belanda',
+    hint: 'Negara Eropa Barat yang terkenal dengan kincir angin?'
   },
   {
-    nama: 'samoa',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'Mesir',
+    hint: 'Negara yang terkenal dengan piramida gaza?'
   },
   {
-    nama: 'senegal',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'Canberra',
+    hint: 'Apa ibu kota Australia?'
   },
   {
-    nama: 'suriah',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'India',
+    hint: 'memiliki mata uang rupee'
   },
   {
-    nama: 'somalia',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'Malaysia',
+    hint: 'negara tetangga di asia tenggara'
   },
   {
-    nama: 'swedia',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'portugal',
+    hint: 'negara cristiano ronaldo'
   },
   {
-    nama: 'taiwan',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'ukraina',
+    hint: 'sedang memiliki konflik'
+  },
+  {
+    nama: 'inggris',
+    hint: 'lokasi big ben'
+  },
+  {
+    nama: 'rusia',
+    hint: 'negara terbesar'
+  },
+  {
+    nama: 'brasil',
+    hint: 'negara penghasil kopi terbesar'
   },
   {
     nama: 'thailand',
-    hint: 'Terletak di Asia Selatan'
+    hint: 'negara tempat berdiri nya asean'
   },
   {
-    nama: 'tunisia',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'arabsaudi',
+    hint: 'tempat berkumpulnya umat muslim untuk beribadah'
   },
   {
-    nama: 'uganda',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'jerman',
+    hint: 'negara yang terkenal dengan tembok berlin'
   },
   {
-    nama: 'yunani',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'turki',
+    hint: 'ankara adalah ibukota negara'
   },
   {
-    nama: 'yordania',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'irak',
+    hint: 'negara yang memiliki julukan negeri seribu malam'
   },
   {
-    nama: 'zambia',
-    hint: 'Terletak di Asia Selatan'
+    nama: 'tiongkok',
+    hint: 'negara yang memiliki julukan negeri tirai bambu'
+  },
+  {
+    nama: 'filipina',
+    hint: 'negara ibukota manila'
+  },
+  {
+    nama: 'vietnam',
+    hint: 'negara dengan bendera merah dengan bintang kuning ditengah'
+  },
+  {
+    nama: 'kamboja',
+    hint: 'memiliki ibu kota phnom penh'
+  },
+  {
+    nama: 'swedia',
+    hint: 'negara dengan ibukota stockholm '
+  },
+  {
+    nama: 'denmark',
+    hint: 'negara dengan ibukota kopenhagen'
+  },
+  {
+    nama: 'argentina',
+    hint: 'Negara di Amerika Selatan yang terkenal dengan tango'
+  },
+  {
+    nama: 'kenya',
+    hint: 'Negara di Afrika yang dikenal dengan savananya yang luas '
+  },
+  {
+    nama: 'Norwegia',
+    hint: 'Negara di Eropa yang dikenal dengan cerita dongeng Viking-nya.'
+  },
+  {
+    nama: 'maladewa',
+    hint: 'Negara pulau di Samudra Hindia yang terkenal dengan alam bawah lautnya yang indah'
+  },
+  {
+    nama: 'swiss',
+    hint: 'Negara di Eropa yang terkenal dengan Pegunungan Alpen'
+  },
+  {
+    nama: 'indonesia',
+    hint: 'Negeri yang terkenal dengan pulau dewata, Bali, dan candi Borobudur'
+  },
+  {
+    nama: 'nepal',
+    hint: 'Negeri di Asia yang memiliki Gunung Everest, puncak tertinggi di dunia'
   },
 ]
 
